@@ -192,12 +192,12 @@ enableGitInfo = false
     # Date format (refer to Go's date format: http://fuckinggodateformat.com )
     #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
     date_format = "January, 2006"
-
+  detailed_list = false
   # Configuration of project pages.
   #[params.projects]
     # List publications and talks related to the project?
   #  list_children = true
-
+  
     # Publication list format.
     #   0 = Simple
     #   1 = Detailed
