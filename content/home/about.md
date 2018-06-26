@@ -19,17 +19,17 @@ weight = 5
 [[education.courses]]
   course = "Ph.D. in Econometrics and Statistics"
   institution = "Booth School of Business, University of Chicago"
-  year = 2018-
+  year = "2018-"
 
 [[education.courses]]
   course = "M.A. in Economics"
   institution = "National Taiwan University"
-  year = 2015-2017
+  year = "2015-2017"
 
 [[education.courses]]
   course = "B.A. in Political Science"
   institution = "National Taiwan University"
-  year = 2011-2015
+  year = "2011-2015"
  
 +++
 
