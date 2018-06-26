@@ -180,8 +180,6 @@ enableGitInfo = false
     'Report',  # 4
     'Book',  # 5
     'Book section'  # 6
-    'work in progress' #7
-    'working paper' #8
   ]
 
   # Configuration of talk pages.
@@ -205,7 +203,7 @@ enableGitInfo = false
     #   1 = Detailed
     #   2 = APA
     #   3 = MLA
-    publication_format = 1
+    #publication_format = 1
 
   # Social/Academic Networking
   #
