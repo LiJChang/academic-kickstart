@@ -3,4 +3,5 @@ abstract = "A modification of the Forward Stepwise Regression (FSR), a greedy-ty
 authors = ["Shuo-Chieh Huang", "Ching-Kang Ing", "Ruey S. Tsay"]
 title = "Model Selection for Unit-root Time Series with Many Predictors"
 publication = "*work in progress*"
+date = "2018-06-26"
 +++
