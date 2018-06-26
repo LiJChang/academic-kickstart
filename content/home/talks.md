@@ -1,4 +1,5 @@
 +++
+active = false
 # Recent and Upcoming Talks widget.
 widget = "talks"
 active = true
