@@ -11,7 +11,7 @@ weight = 5
 # List your academic interests.
 [interests]
   interests = [
-    "High-diemsional Data Analysis",
+    "High-dimensional Data Analysis",
     "Time Series Analysis",
     "Statistical Learning"
   ]
@@ -36,6 +36,4 @@ weight = 5
 
 # Biography
 
-Lena Smith is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
+Greetings! I am a Ph.D. student at Booth School of Business, University of Chicago, with concentration in Econometrics and Statistics. Currently I am working on the theoretical properties of greedy algorithms when applied to non-stationary time series in data-rich environments. I expect to explore these statistical properties under cointegration models in the future. I am also drawn to other areas such as network statistics and stochastic processes. Besides statistics, I enjoy rock-n-roll and traveling.
