@@ -11,7 +11,7 @@ detailed_list = false
 #   1 = Detailed
 #   2 = APA
 #   3 = MLA
-list_format = 2
+list_format = 1
 
 # Optional featured image (relative to `static/img/` folder).
 [header]
