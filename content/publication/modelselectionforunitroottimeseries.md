@@ -7,7 +7,7 @@ title = "Model Selection for Unit-root Time Series with Many Predictors"
 
 publication = "*work in progress*"
 
-date = ""
+date = "2018-06"
 
 # Links (optional).
 url_pdf = "" 
