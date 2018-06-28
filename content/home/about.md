@@ -36,4 +36,4 @@ weight = 5
 
 # Bio
 
-Greetings! I am a Ph.D. student at Booth School of Business, University of Chicago, with concentration in Econometrics and Statistics. Currently I am working on the theoretical properties of greedy algorithms when applied to non-stationary time series in data-rich environments. I expect to explore these statistical properties under cointegration models in the future. I am also drawn to other areas such as network statistics and stochastic processes. Besides statistics, I enjoy rock-n-roll and traveling.
+Greetings! I am a Ph.D. student at Booth School of Business, University of Chicago, with concentration in Econometrics and Statistics. Currently I am working on the theoretical properties of greedy algorithms when applied to non-stationary time series in data-rich environments and will proceed to explore those statistical properties under cointegration models in the future. I am also drawn to other areas such as network statistics and stochastic processes. Besides statistics, I enjoy rock-n-roll and traveling.
